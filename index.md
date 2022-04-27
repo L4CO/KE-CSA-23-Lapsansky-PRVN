@@ -35,8 +35,8 @@ Predpokladám, že je trebe čítať hodnoty "M" (Due Date). <br>
 <table>
   <tr>
     <th>1. Merač 94232431</th>
-    <th>2. Merač 94232431</th>
-    <th>3. Merač 94232431</th>
+    <th>2. Merač 94232432</th>
+    <th>3. Merač 94232433</th>
   </tr>
   <tr>
     <td><img src="gif/94232431.gif" /></td>
@@ -46,6 +46,9 @@ Predpokladám, že je trebe čítať hodnoty "M" (Due Date). <br>
 </table>
 
 # video jednotlivo
+## 1. Merač 94232431
 ![94232431](gif/94232431.gif)
+## 2. Merač 94232432
 ![94232432](gif/94232432.gif)
+## 3. Merač 94232433
 ![94232433](gif/94232433.gif)
