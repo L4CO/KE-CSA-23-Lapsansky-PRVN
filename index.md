@@ -4,6 +4,7 @@ Ladislav LAPŠANSKÝ
 040 01 Košice-Staré Mesto
 
 # link na ma manuál merača
+[WHE502-D10](https://www.manualshelf.com/manual/siemens/whe502-d10/user-manual-english/page-4.html) <br>
 Predpokladám, že je trebe čítať hodnoty "M" (Due Date). <br>
 
 # neodpočítané merače:
