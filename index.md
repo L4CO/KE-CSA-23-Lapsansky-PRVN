@@ -7,13 +7,6 @@ Ladislav LAPŠANSKÝ
 Predpokladám, že je trebe čítať hodnoty "M" (Due Date). <br>
 
 # neodpočítané merače:
-|Výrobné číslo merača |Odpočet ku dňu |stav merača |
---- |--- |--- |
-|**94232431**|31.12.2021|0|
-|**94232432**|31.12.2021|0|
-|**94232433**|31.12.2021|0|
-
-# neodpočítané merače:
 <table>                                                                                                                  
   <tr>
     <th>Výrobné číslo merača</th>
