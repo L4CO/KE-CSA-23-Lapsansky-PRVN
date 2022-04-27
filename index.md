@@ -18,9 +18,9 @@ Ladislav LAPŠANSKÝ
     <th>3. Merač 94232431</th>
   </tr>
   <tr>
-    <td>![94232431](gif/94232431.gif)</td>
-    <td>![94232432](gif/94232432.gif)</td>
-    <td>![94232433](gif/94232433.gif)</td>
+    <td><img src="gif/94232431.gif" /></td>
+    <td><img src="gif/94232432.gif" /></td>
+    <td><img src="gif/94232433.gif" /></td>
   </tr>
 </table>
 
