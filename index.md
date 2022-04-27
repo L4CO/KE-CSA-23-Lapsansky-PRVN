@@ -5,7 +5,6 @@ Ladislav LAPŠANSKÝ
 
 # link na ma manuál merača
 Predpokladám, že je trebe čítať hodnoty "M" (Due Date). <br>
-[WHE502-D10](https://www.manualshelf.com/manual/siemens/whe502-d10/user-manual-english/page-4.html) <br>
 
 # neodpočítané merače:
 | Výrobné číslo merača  | Odpočet ku dňu   | stav merača   |
