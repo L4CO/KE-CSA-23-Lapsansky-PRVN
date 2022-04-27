@@ -26,6 +26,7 @@ Predpokladám, že je trebe čítať hodnoty "M" (Due Date).
     <td><img src="gif/94232432.gif" /></td>
     <td><img src="gif/94232433.gif" /></td>
   </tr>
+</table>
 
 # video jednotlivo zväčšené
 ## 1. Merač 94232431
